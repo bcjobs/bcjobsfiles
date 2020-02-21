@@ -3,5 +3,8 @@ Folder structure used by https://github.com/bcjobs/jobcentre-net in dev environm
 
 ## Setup
 * Start at root of c drive: `cd /`
-* Clone this repo: `git clone https://github.com/bcjobs/bcjobsfiles.git`
-* On macOS, folder premissions are required: `sudo chmod a+w bcjobsfiles`
+* Windows:
+  * Clone this repo: `git clone https://github.com/bcjobs/bcjobsfiles.git`
+* macOS:
+  * Clone this repo: `sudo git clone https://github.com/bcjobs/bcjobsfiles.git`
+  * Set folder premissions: `sudo chmod -R a+w bcjobsfiles`
